@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environnement Virtuel
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/cache
+.streamlit/static
+
+# Données volumineuses (Optionnel)
+# Si vous ne voulez pas envoyer le CSV sur GitHub car il est trop gros
+# *.csv
+
+# OS
+.DS_Store
+Thumbs.db
